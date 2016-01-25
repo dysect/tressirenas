@@ -10,6 +10,7 @@
  * Tells WordPress to load the WordPress theme and output it.
  *
  * @var bool
+ * This is a change to test the GitHub tracking.
  */
 define('WP_USE_THEMES', true);
 
